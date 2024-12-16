@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/joby-static/static/css/main.0697ba9e.css",
+    "main.js": "/joby-static/static/js/main.cb5d36b7.js",
+    "static/js/488.2556a85b.chunk.js": "/joby-static/static/js/488.2556a85b.chunk.js",
+    "static/media/logo.svg": "/joby-static/static/media/logo.d35fe315c7bf6026179b8c7507e56b99.svg",
+    "static/media/vector_1.svg": "/joby-static/static/media/vector_1.5274e87eea9453a50a5af4832892b218.svg",
+    "index.html": "/joby-static/index.html",
+    "static/media/vector_4.svg": "/joby-static/static/media/vector_4.2a6d4f86cc8c1f27c8cbe26d064e2f46.svg",
+    "static/media/vector_2.svg": "/joby-static/static/media/vector_2.07608a6ff0084566b9a21c5967d7f02f.svg",
+    "static/media/vector_3.svg": "/joby-static/static/media/vector_3.a6c8e56e4f8dff2d284073ea37bce8a7.svg",
+    "main.0697ba9e.css.map": "/joby-static/static/css/main.0697ba9e.css.map",
+    "main.cb5d36b7.js.map": "/joby-static/static/js/main.cb5d36b7.js.map",
+    "488.2556a85b.chunk.js.map": "/joby-static/static/js/488.2556a85b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0697ba9e.css",
+    "static/js/main.cb5d36b7.js"
+  ]
+}
